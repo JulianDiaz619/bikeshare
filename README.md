@@ -2,7 +2,7 @@
 
 ### Overview of Project
 
-  In this project, we took a look at Citi Bikes data from 2019 and used Tableau to visualize different insights we gathered from the data.
+  In this project, we analyzed the Citi Bike data from 2019 and used Tableau to create visualizations that provide insights into the usage patterns of the bike-sharing service. We examined several aspects of the data, including trip duration, user demographics, and the most active days and times for the service.
   
 ### Results
 
