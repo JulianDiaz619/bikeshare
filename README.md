@@ -37,3 +37,11 @@ Here is a pie chart that shows the ratio of subscribers vs one-times users. It's
 ![image](genders.png)
 
 Here is a pie chart that shows which genders use the service. The numbers come out to ~1.5m male users, ~590k female users, and ~225k unknown gender users.
+
+## Summary 
+
+To summarize the results, we discovered that a majority of users are male, a majority of users are on the subscription plan, and the service is mainly used for short distance travels. The trip duration for all genders tends to average out at under 10 minutes, and the most active days/times for the service are thursday, monday, and tuesday at 5/6pm. Additionally, the heatmap shows that male subscribers are the most frequent users of the service, and there are almost 2 million subscribers compared to under 500,000 one-time users. Overall, these visualizations provide valuable insights into the usage patterns of the Citi Bike service.
+
+Another useful visualization could be a line chart that shows how the user demographics (e.g., gender, age, etc.) have changed over time. This would help track changes in the user base and identify any trends or patterns that may have emerged over time. It could also be useful for identifying any potential biases or gaps in the service's marketing or outreach efforts.
+
+A heatmap or map visualization could be created to show the most popular destinations for different user types (e.g., subscribers vs. one-time users). This could help identify any differences in usage patterns between these user groups and could provide insights into the types of trips that each group tends to take. For example, subscribers may be more likely to use the service for commuting to work or school, while one-time users may be more likely to use the service for leisure activities or sightseeing. This information could be useful for tailoring marketing or outreach efforts to specific user groups and improving the overall user experience.
