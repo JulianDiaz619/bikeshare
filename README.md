@@ -9,3 +9,5 @@
   Here we will go over 7 visualizations that we gathered from the data.
   
 #### Visualizations
+
+![](bikeshare/tripdur.png)
