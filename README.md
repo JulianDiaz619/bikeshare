@@ -10,4 +10,4 @@
   
 #### Visualizations
 
-![image](bikeshare/tripdur.png)
+![image](tripdur.png)
