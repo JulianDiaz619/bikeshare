@@ -1,7 +1,7 @@
 # Bike Sharing
 
-### Link to Tableau Dashboard
-[link to dashboard](https://public.tableau.com/app/profile/julian.diaz3750/viz/CitiBikeData_16777270024310/Story1?publish=yes)
+### [Link to Tableau Dashboard](https://public.tableau.com/app/profile/julian.diaz3750/viz/CitiBikeData_16777270024310/Story1?publish=yes)
+
 
 ### Overview of Project
 
